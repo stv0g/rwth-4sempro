@@ -1,0 +1,9 @@
+Institutsprojekt 4. Semester SS2012 - RWTH Aachen 
+
+Institut: ACS (Aufbau eines elektrischen Modellautos)
+
+
+Files:
+frontend/	simple cairo frontend written in C++ to visualize realtime sensor data
+controller/	firmware for onboard AVR microcontroller	
+schematic/	eagle schematics for microcontroller/display board
